@@ -14,8 +14,8 @@ Step 4. run command "php artisan migrate" to run database schemas
 
 Step 5. run command "php artisan db:seed" to populate db tables users and properties
 
-Step 6. execute command "run npm install"
+Step 6. execute command "npm install"
 
-Step 7. execute command "run npm dev"
+Step 7. execute command "npm dev"
 
 Step 8. run php artisan serve and the project should now be running.
