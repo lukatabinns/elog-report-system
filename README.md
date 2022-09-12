@@ -16,6 +16,6 @@ Step 5. run command "php artisan db:seed" to populate db tables users and proper
 
 Step 6. execute command "npm install"
 
-Step 7. execute command "npm dev"
+Step 8. run php artisan serve.
 
-Step 8. run php artisan serve and the project should now be running.
+Step 7. execute command "npm run dev" and the project should now be running
